@@ -15,3 +15,4 @@
 ![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/14.%20TugasEksplorasi.PNG)
 ![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/15.%20TugasLuasBalok.PNG)
 ![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/16.%20Variable.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/Soal.PNG)
