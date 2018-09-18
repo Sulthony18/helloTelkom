@@ -1,3 +1,11 @@
 # helloTelkom
 ![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/1.Aritmatika.PNG)
 ![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/2.%20BeaSiswa.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/3.%20Counter.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/4.%20DataDiri.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/5.%20HelloTelkom.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/6.%20Inputan.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/7.KonversiNilai.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/8.%20Kondisi.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/9.%20KonversiSuhu.PNG)
+![alt text](https://github.com/Sulthony18/helloTelkom/blob/master/10.%20LuasBalok.PNG)
